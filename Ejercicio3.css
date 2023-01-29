@@ -1,0 +1,134 @@
+.a{
+    background-color: #eee;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    box-shadow: -5px -5px gray;
+   
+}
+
+.b{
+    background-color: #eee;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    box-shadow: -5px -5px 5px gray;
+
+}
+
+.c{
+    background-color: #eee;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    box-shadow: -5px -5px 0px 2px gray;
+
+}
+
+.d{
+    background-color: #eee;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    box-shadow: -5px -5px 5px 2px gray;
+}
+
+.e{
+    background-color: #eee;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    box-shadow: 0px 0px 5px gray;
+}
+
+.f{
+    background-color: #eee;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    box-shadow: 0px 0px 3px 3px gray;
+}
+
+.g{
+    background-color: #eee;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    box-shadow:5px 5px gray
+}
+
+.h{
+    background-color: #eee;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.i{
+    background-color: #eee;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    box-shadow: 5px 5px 0px 5px gray;
+}
+
+.j{
+    background-color: #eee;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+
+.k{
+    background-color: #eee;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    box-shadow: 0px 0px 5px 0px gray;
+}
+
+.l{
+    background-color: #eee;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    box-shadow: 0px 0px 5px 5px gray;
+}
